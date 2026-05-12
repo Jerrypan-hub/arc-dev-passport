@@ -1,2 +1,15 @@
 # arc-dev-passport
 Testing and Use of Arc Testnet
+Arc Dev Passport
+
+Contract Address:
+0x41FA3c2171135462E5D65CB6C547385cD617CDEf
+
+Builder Wallet:
+0x85c8E2c53F666aBA511F66cfb8CDd86FEC28Ff7f
+
+Profile Update Tx:
+0xdc11ffdcf040ab5ce51681cb99d95ba588d21ad3812ebbe6f70c1e10a98a4a73
+
+Contribution Tx:
+0x2ad79f2d2e73b013b44a16e55c5683269c570340ed54290ce2a9eb7083a49282
